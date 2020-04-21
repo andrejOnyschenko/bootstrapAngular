@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bootAngular"
+    }
+  },
+  "defaultProject": "bootAngular",
+  "cli": {
+    "analytics": false
+  }
 }
